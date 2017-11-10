@@ -39,8 +39,9 @@ footer {
   div.container {
     grid-template-columns:1fr
     grid-template-areas:
-      "header header"
-      "main aside"
-      "footer footer";
+      "header"
+      "main"
+      "aside"
+      "footer;
   }
 }
